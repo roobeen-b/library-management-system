@@ -4,6 +4,8 @@ import "./globals.css";
 import localFont from "next/font/local";
 import { ReactNode } from "react";
 
+import { Toaster } from "@/components/ui/toaster";
+
 const ibmPlexSans = localFont({
   src: [
     { path: "/fonts/IBMPlexSans-Regular.ttf", weight: "400", style: "normal" },
@@ -31,6 +33,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
     <html lang="en">
       <body className={`${ibmPlexSans.className} ${bebasNeue.variable}`}>
         {children}
+        <Toaster />
       </body>
     </html>
   );
