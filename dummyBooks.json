@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9084986f-456c-449b-ae6e-59ef1f26b129",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "genre": "Computer Science / Programming",
+    "rating": 5,
+    "totalCopies": 25,
+    "availableCopies": 3,
+    "description": "A timeless guide for developers to hone their skills and improve their programming practices.",
+    "coverColor": "#100f15",
+    "coverUrl": "https://m.media-amazon.com/images/I/71VStSjZmpL._AC_UF1000,1000_QL80_.jpg",
+    "videoUrl": "https://ik.imagekit.io/rubinbaidhya/books/videos/test-video_eaNsA4mu_N.mp4?tr=orig&updatedAt=1737536098840",
+    "summary": "The book sets the stage by introducing pragmatic philosophy, emphasizing the importance of taking responsibility for your code. It urges programmers to strive for excellence and embrace the mindset of a craftsman. Through captivating anecdotes, the authors emphasize the significance of continuous learning and honing your skills. By blending passion with professionalism, you can transcend the ordinary and become an exceptional programmer."
+  },
+  {
+    "id": "350c3bc8-a5cc-45a3-ba16-97b93ed056b0",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophy / Adventure",
+    "rating": 4,
+    "totalCopies": 78,
+    "availableCopies": 50,
+    "description": "A magical tale of Santiago, an Andalusian shepherd boy, who embarks on a journey to find a worldly treasure.",
+    "coverColor": "#ed6322",
+    "coverUrl": "https://m.media-amazon.com/images/I/61HAE8zahLL._AC_UF1000,1000_QL80_.jpg",
+    "videoUrl": "https://ik.imagekit.io/rubinbaidhya/books/videos/test-video_eaNsA4mu_N.mp4?tr=orig&updatedAt=1737536098840",
+    "summary": "A recurring dream troubles Santiago, a young and adventurous Andalusian shepherd. He has the dream every time he sleeps under a sycamore tree that grows out of the ruins of a church. During the dream, a child tells him to seek treasure at the foot of the Egyptian pyramids. Santiago consults a gypsy woman to interpret the dream, and to his surprise she tells him to go to Egypt. A strange, magical old man named Melchizedek, who claims to be the King of Salem, echoes the gypsy’s advice and tells Santiago that it is his Personal Legend to journey to the pyramids. Melchizedek convinces Santiago to sell his flock and set off to Tangier. When Santiago arrives in Tangier, a thief robs him, forcing him to find work with a local crystal merchant. The conservative and kindly merchant teaches Santiago several lessons, and Santiago encourages the merchant to take risks with his business. The risks pay off, and Santiago becomes a rich man in just a year."
+  },
+  {
+    "id": "b514f922-a715-45ec-846e-e51d40e15aa2",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Computer Science / Programming",
+    "rating": 4,
+    "totalCopies": 56,
+    "availableCopies": 56,
+    "description": "A handbook of agile software craftsmanship, offering best practices and principles for writing clean and maintainable code.",
+    "coverColor": "#080c0d",
+    "coverUrl": "https://m.media-amazon.com/images/I/71T7aD3EOTL._UF1000,1000_QL80_.jpg",
+    "videoUrl": "https://ik.imagekit.io/rubinbaidhya/books/videos/test-video_eaNsA4mu_N.mp4?tr=orig&updatedAt=1737536098840",
+    "summary": "By following the principles and practices outlined in “Clean Code,” developers can create software that is easier to read, understand, maintain, and enhance. This leads to higher-quality applications, fewer bugs, and more efficient development processes, ultimately benefiting both the development team and the end-users of the software. By incorporating these best practices into your daily coding routines, you’ll contribute to a more collaborative, efficient, and enjoyable software development environment."
+  }
+]
